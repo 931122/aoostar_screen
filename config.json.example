@@ -1,0 +1,13 @@
+{
+	"weather": {
+		"token": "your gaode weather token",
+
+		"this is you city": "form goade",
+		"city": "370112",
+		"update_time": ["07:00", "11:00", "15:30"]
+	},
+	"lcd": {
+		"lcd_on_time": "8:00",
+		"lcd_off_time": "19:30"
+	}
+}
